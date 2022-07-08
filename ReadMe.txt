@@ -1,4 +1,4 @@
-#Algomox Assesment
+#Algomox Assessment
 #Task Managment App - GOlang as backend
 
 #setup
